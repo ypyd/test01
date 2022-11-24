@@ -1,5 +1,46 @@
-#EXTINF:-1 group-title="网络",PBS Kids EST
+#EXTINF:-1 group-title="海外",PBS Kids EST
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+
+
+
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-1 综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-2 财经
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-3 综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-4 中文国际
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-5 体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-5+ 体育赛事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-6 电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-7 国防军事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-8 电视剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-9 记录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-10 科教
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-11 戏曲
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-12 社会与法
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-13 新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-14 少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-15 音乐
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="中央[江西移动]",CCTV-17 农业农村
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="中央[易视腾]",CCTV-1 综合
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=4
@@ -35,6 +76,7 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=4
 #EXTINF:-1 group-title="中央[易视腾]",CCTV-17 农业农村
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=4
+
 
 #EXTINF:-1 group-title="上海[上海联通]",新闻综合HD
 http://20.254.1.9/PLTV/88888888/224/3221225701/10000100000000060000000000013592_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
