@@ -426,8 +426,8 @@ http://20.254.1.9/PLTV/88888888/224/3221225801/10000100000000060000000001020096_
 http://20.254.1.9/PLTV/88888888/224/3221225813/10000100000000060000000001020109_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",中国教育-2
 http://20.254.1.9/PLTV/88888888/224/3221225910/10000100000000060000000000287434_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
-#EXTINF:-1 group-title="教育[上海联通]",中国教育-4
-http://20.254.1.9/PLTV/88888888/224/3221225877/10000100000000060000000000287435_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="教育[上海联通]",中国教育-4HD
+http://20.254.1.9/PLTV/88888888/224/3221226037/10000100000000060000000002233119_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",上海教育HD
 http://20.254.1.9/PLTV/88888888/224/3221225926/10000100000000060000000002015042_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",上海教育
@@ -521,3 +521,11 @@ http://20.254.1.9/PLTV/88888888/224/3221226038/10000100000000060000000002233120_
 http://20.254.1.9/PLTV/88888888/224/3221226039/10000100000000060000000002233121_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="购物[上海联通]",优购物
 http://20.254.1.9/PLTV/88888888/224/3221225929/10000100000000060000000002126619_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+
+
+
+
+
+
+
+
