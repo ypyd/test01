@@ -79,128 +79,128 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 
 
 #EXTINF:-1 group-title="上海[上海联通]",新闻综合HD
-http://20.254.1.9/PLTV/88888888/224/3221225701/10000100000000060000000000013592_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225701/10000100000000060000000000013592_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",东方卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",都市频道HD
-http://20.254.1.9/PLTV/88888888/224/3221225700/10000100000000060000000000013593_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225700/10000100000000060000000000013593_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",纪实人文HD
-http://20.254.1.9/PLTV/88888888/224/3221225691/10000100000000060000000000012475_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225691/10000100000000060000000000012475_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",东方影视HD
-http://20.254.1.9/PLTV/88888888/224/3221225690/10000100000000060000000000012476_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225690/10000100000000060000000000012476_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",第一财经HD
-http://20.254.1.9/PLTV/88888888/224/3221225688/10000100000000060000000000012477_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225688/10000100000000060000000000012477_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",五星体育HD
-http://20.254.1.9/PLTV/88888888/224/3221225689/10000100000000060000000000012789_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225689/10000100000000060000000000012789_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",哈哈炫动HD
-http://20.254.1.9/PLTV/88888888/224/3221225855/10000100000000060000000001175042_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225855/10000100000000060000000001175042_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",外语频道HD
-http://20.254.1.9/PLTV/88888888/224/3221225784/10000100000000060000000001020054_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225784/10000100000000060000000001020054_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="上海[上海联通]",新闻综合
-http://20.254.1.9/PLTV/88888888/224/3221225823/10000100000000060000000001128690_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225823/10000100000000060000000001128690_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",东方卫视
-http://20.254.1.9/PLTV/88888888/224/3221225824/10000100000000060000000001128693_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225824/10000100000000060000000001128693_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",都市频道
-http://20.254.1.9/PLTV/88888888/224/3221225825/10000100000000060000000001128695_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225825/10000100000000060000000001128695_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",纪实人文
-http://20.254.1.9/PLTV/88888888/224/3221225828/10000100000000060000000001128699_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225828/10000100000000060000000001128699_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",东方影视
-http://20.254.1.9/PLTV/88888888/224/3221225826/10000100000000060000000001128717_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225826/10000100000000060000000001128717_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",第一财经
-http://20.254.1.9/PLTV/88888888/224/3221225913/10000100000000060000000001592695_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225913/10000100000000060000000001592695_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",五星体育
-http://20.254.1.9/PLTV/88888888/224/3221225695/10000100000000060000000000013591_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225695/10000100000000060000000000013591_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",哈哈炫动
-http://20.254.1.9/PLTV/88888888/224/3221225614/10000100000000060000000000012448_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225614/10000100000000060000000000012448_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="上海[上海联通]",外语频道
-http://20.254.1.9/PLTV/88888888/224/3221225611/10000100000000060000000000012447_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225611/10000100000000060000000000012447_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="上海[上海联通]",浦东电视台
-http://20.254.1.9/PLTV/88888888/224/3221225915/10000100000000060000000001656942_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225915/10000100000000060000000001656942_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV欢笑剧场4K
-http://20.254.1.9/PLTV/88888888/224/3221225895/10000100000000060000000001580154_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225895/10000100000000060000000001580154_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV欢笑剧场HD
-http://20.254.1.9/PLTV/88888888/224/3221225852/10000100000000060000000001138697_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225852/10000100000000060000000001138697_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV都市剧场HD
-http://20.254.1.9/PLTV/88888888/224/3221225851/10000100000000060000000001138696_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225851/10000100000000060000000001138696_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV法治天地HD
-http://20.254.1.9/PLTV/88888888/224/3221225842/10000100000000060000000001128715_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225842/10000100000000060000000001128715_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV动漫秀场HD
-http://20.254.1.9/PLTV/88888888/224/3221225850/10000100000000060000000001128724_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225850/10000100000000060000000001128724_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV游戏风云HD
-http://20.254.1.9/PLTV/88888888/224/3221225846/10000100000000060000000001128719_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225846/10000100000000060000000001128719_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV生活时尚HD
-http://20.254.1.9/PLTV/88888888/224/3221225848/10000100000000060000000001128722_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="SiTV[上海联通]",SiTV全纪实HD
-http://20.254.1.9/PLTV/88888888/224/3221225849/10000100000000060000000001128723_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="SiTV[上海联通]",SiTV极速汽车HD
-http://20.254.1.9/PLTV/88888888/224/3221225845/10000100000000060000000001128718_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225848/10000100000000060000000001128722_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="SiTV[上海联通]",SiTV乐游HD
+http://20.254.1.9/PLTV/88888888/224/3221225849/10000100000000060000000001128723_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV金色学堂HD
-http://20.254.1.9/PLTV/88888888/224/3221225843/10000100000000060000000001128720_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225843/10000100000000060000000001128720_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
-#EXTINF:-1 group-title="SiTV[上海联通]",SiTV七彩戏剧
-http://20.254.1.9/PLTV/88888888/224/3221225624/10000100000000060000000000012451_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="SiTV[上海联通]",SiTV东方财经
-http://20.254.1.9/PLTV/88888888/224/3221225627/10000100000000060000000000012535_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+#EXTINF:-1 group-title="SiTV[上海联通]",SiTV七彩戏剧HD
+http://20.254.1.9/PLTV/88888888/224/3221226032/10000100000000060000000002233114_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="SiTV[上海联通]",SiTV东方财经HD
+http://20.254.1.9/PLTV/88888888/224/3221226033/10000100000000060000000002233115_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV财富天下
-http://20.254.1.9/PLTV/88888888/224/3221225880/10000100000000060000000001558307_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225880/10000100000000060000000001558307_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV都市剧场
-http://20.254.1.9/PLTV/88888888/224/3221225637/10000100000000060000000000012525_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225637/10000100000000060000000000012525_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV法治天地
-http://20.254.1.9/PLTV/88888888/224/3221225636/10000100000000060000000000012453_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225636/10000100000000060000000000012453_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV动漫秀场
-http://20.254.1.9/PLTV/88888888/224/3221225628/10000100000000060000000000012534_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225628/10000100000000060000000000012534_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV游戏风云
-http://20.254.1.9/PLTV/88888888/224/3221225638/10000100000000060000000000012455_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225638/10000100000000060000000000012455_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV生活时尚
-http://20.254.1.9/PLTV/88888888/224/3221225629/10000100000000060000000000012790_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="SiTV[上海联通]",SiTV全纪实
-http://20.254.1.9/PLTV/88888888/224/3221225631/10000100000000060000000000012532_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="SiTV[上海联通]",SiTV极速汽车
-http://20.254.1.9/PLTV/88888888/224/3221225630/10000100000000060000000000012533_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225629/10000100000000060000000000012790_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="SiTV[上海联通]",SiTV乐游
+http://20.254.1.9/PLTV/88888888/224/3221225631/10000100000000060000000000012532_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="SiTV[上海联通]",SiTV金色学堂
-http://20.254.1.9/PLTV/88888888/224/3221225632/10000100000000060000000000012531_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225632/10000100000000060000000000012531_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-1 综合 HD
-http://20.254.1.9/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png" tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-2 财经 HD
-http://20.254.1.9/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png" tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-3 综艺 HD
-http://20.254.1.9/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550058411_61.png" tvg-id="CCTV4Asia.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-4 中文国际 HD
-http://20.254.1.9/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-1 综合HD
+http://20.254.1.9/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-2 财经HD
+http://20.254.1.9/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-3 综艺HD
+http://20.254.1.9/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-4 中文国际HD
+http://20.254.1.9/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-5 体育HD
+http://20.254.1.9/PLTV/88888888/224/3221225862/10000100000000060000000001067915_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103564221_455.png" tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-5 体育 HD
-http://20.254.1.9/PLTV/88888888/224/3221225862/10000100000000060000000001067915_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-6 电影HD
+http://20.254.1.9/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-7 国防军事HD
+http://20.254.1.9/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-8 电视剧HD
+http://20.254.1.9/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-9 记录HD
+http://20.254.1.9/PLTV/88888888/224/3221225888/10000100000000060000000001558690_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-10 科教HD
+http://20.254.1.9/PLTV/88888888/224/3221225889/10000100000000060000000001558694_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103555008_27.png" tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-6 电影 HD
-http://20.254.1.9/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/27/1635316384588_606.png" tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-7 国防军事 HD
-http://20.254.1.9/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103545840_281.png" tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-8 电视剧 HD
-http://20.254.1.9/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103541537_570.png" tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-9 记录 HD
-http://20.254.1.9/PLTV/88888888/224/3221225888/10000100000000060000000001558690_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103522202_464.png" tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-10 科教 HD
-http://20.254.1.9/PLTV/88888888/224/3221225889/10000100000000060000000001558694_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-11 戏曲HD
+http://20.254.1.9/PLTV/88888888/224/3221226034/10000100000000060000000002233116_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-12 社会与法HD
+http://20.254.1.9/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-13 新闻HD
+http://20.254.1.9/PLTV/88888888/224/3221226036/10000100000000060000000002233161_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-14 少儿HD
+http://20.254.1.9/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-15 音乐HD
+http://20.254.1.9/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103514143_75.png" tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-12 社会与法 HD
-http://20.254.1.9/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103504911_769.png" tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-14 少儿 HD
-http://20.254.1.9/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-
-#EXTINF:-1 group-title="中央[上海联通]" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103493765_400.png" tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese",CCTV-17 农业农村 HD
-http://20.254.1.9/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+#EXTINF:-1 group-title="中央[上海联通]",CCTV-17 农业农村 HD
+http://20.254.1.9/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
@@ -208,341 +208,316 @@ http://20.254.1.9/PLTV/88888888/224/3221225892/10000100000000060000000001558692_
 
 
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-1 综合
-http://20.254.1.9/PLTV/88888888/224/3221225834/10000100000000060000000001128741_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225834/10000100000000060000000001128741_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-2 财经
-http://20.254.1.9/PLTV/88888888/224/3221225641/10000100000000060000000000012457_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225641/10000100000000060000000000012457_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-3 综艺
-http://20.254.1.9/PLTV/88888888/224/3221225645/10000100000000060000000000012459_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225645/10000100000000060000000000012459_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-4 中文国际
-http://20.254.1.9/PLTV/88888888/224/3221225643/10000100000000060000000000012458_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225643/10000100000000060000000000012458_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-5 体育
-http://20.254.1.9/PLTV/88888888/224/3221225639/10000100000000060000000000012456_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225639/10000100000000060000000000012456_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-6 电影
-http://20.254.1.9/PLTV/88888888/224/3221225647/10000100000000060000000000012460_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225647/10000100000000060000000000012460_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-7 国防军事
-http://20.254.1.9/PLTV/88888888/224/3221225648/10000100000000060000000000012461_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225648/10000100000000060000000000012461_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-8 电视剧
-http://20.254.1.9/PLTV/88888888/224/3221225650/10000100000000060000000000012462_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225650/10000100000000060000000000012462_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-9 记录
-http://20.254.1.9/PLTV/88888888/224/3221225893/10000100000000060000000001558695_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225893/10000100000000060000000001558695_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-10 科教
-http://20.254.1.9/PLTV/88888888/224/3221225653/10000100000000060000000000012464_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225653/10000100000000060000000000012464_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-11 戏曲
-http://20.254.1.9/PLTV/88888888/224/3221225655/10000100000000060000000000012465_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225655/10000100000000060000000000012465_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-12 社会与法
-http://20.254.1.9/PLTV/88888888/224/3221225657/10000100000000060000000000012466_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225657/10000100000000060000000000012466_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-13 新闻
-http://20.254.1.9/PLTV/88888888/224/3221225658/10000100000000060000000000012467_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225658/10000100000000060000000000012467_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-14 少儿
-http://20.254.1.9/PLTV/88888888/224/3221225662/10000100000000060000000000012469_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225662/10000100000000060000000000012469_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-15 音乐
-http://20.254.1.9/PLTV/88888888/224/3221225660/10000100000000060000000000012468_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225660/10000100000000060000000000012468_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="中央[上海联通]",CCTV-17 农业农村
-http://20.254.1.9/PLTV/88888888/224/3221225894/10000100000000060000000001558691_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225894/10000100000000060000000001558691_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="中央[上海联通]",CGTN
-http://20.254.1.9/PLTV/88888888/224/3221225652/10000100000000060000000000012463_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225652/10000100000000060000000000012463_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="中央[上海联通]",中国气象
-http://20.254.1.9/PLTV/88888888/224/3221225804/10000100000000060000000001020099_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225804/10000100000000060000000001020099_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
 #EXTINF:-1 group-title="卫视[上海联通]",北京卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225684/10000100000000060000000000012484_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225684/10000100000000060000000000012484_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",天津卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225797/10000100000000060000000001020090_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",河北卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225907/10000100000000060000000001580152_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225907/10000100000000060000000001580152_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",辽宁卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225799/10000100000000060000000001020092_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225799/10000100000000060000000001020092_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",吉林卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225886/10000100000000060000000001558313_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225886/10000100000000060000000001558313_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",黑龙江卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225682/10000100000000060000000000012488_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225682/10000100000000060000000000012488_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",东方卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225699/10000100000000060000000000013594_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",江苏卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225686/10000100000000060000000000012480_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225686/10000100000000060000000000012480_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",浙江卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225687/10000100000000060000000000012479_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225687/10000100000000060000000000012479_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",安徽卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225796/10000100000000060000000001020089_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225796/10000100000000060000000001020089_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",东南卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225800/10000100000000060000000001020094_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225800/10000100000000060000000001020094_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",江西卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225798/10000100000000060000000001020091_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225798/10000100000000060000000001020091_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",山东卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225679/10000100000000060000000000012491_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",河南卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225883/10000100000000060000000001558312_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225883/10000100000000060000000001558312_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",湖北卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225683/10000100000000060000000000012487_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225683/10000100000000060000000000012487_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",湖南卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225685/10000100000000060000000000012483_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225685/10000100000000060000000000012483_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",广东卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225680/10000100000000060000000000012490_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225680/10000100000000060000000000012490_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",广西卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225885/10000100000000060000000001558310_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225885/10000100000000060000000001558310_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",海南卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225821/10000100000000060000000001128688_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225821/10000100000000060000000001128688_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",深圳卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225681/10000100000000060000000000012489_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225681/10000100000000060000000000012489_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",重庆卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225803/10000100000000060000000001020098_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225803/10000100000000060000000001020098_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",四川卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225802/10000100000000060000000001020097_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225802/10000100000000060000000001020097_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",贵州卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225822/10000100000000060000000001128689_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225822/10000100000000060000000001128689_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",云南卫视HD
-http://20.254.1.9/PLTV/88888888/224/3221225884/10000100000000060000000001558311_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225884/10000100000000060000000001558311_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+
+#EXTINF:-1 group-title="卫视[上海联通]",甘肃卫视HD
+http://20.254.1.9/PLTV/88888888/224/3221225928/10000100000000060000000002015038_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",北京卫视
-http://20.254.1.9/PLTV/88888888/224/3221225805/10000100000000060000000001020100_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225805/10000100000000060000000001020100_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",天津卫视
-http://20.254.1.9/PLTV/88888888/224/3221225669/10000100000000060000000000012504_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225669/10000100000000060000000000012504_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",河北卫视
-http://20.254.1.9/PLTV/88888888/224/3221225661/10000100000000060000000000012513_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225661/10000100000000060000000000012513_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",山西卫视
-http://20.254.1.9/PLTV/88888888/224/3221225668/10000100000000060000000000012505_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225668/10000100000000060000000000012505_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",内蒙古卫视
-http://20.254.1.9/PLTV/88888888/224/3221225656/10000100000000060000000000012515_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225656/10000100000000060000000000012515_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",辽宁卫视
-http://20.254.1.9/PLTV/88888888/224/3221225674/10000100000000060000000000012498_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225674/10000100000000060000000000012498_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",吉林卫视
-http://20.254.1.9/PLTV/88888888/224/3221225673/10000100000000060000000000012500_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225673/10000100000000060000000000012500_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",黑龙江卫视
-http://20.254.1.9/PLTV/88888888/224/3221225809/10000100000000060000000001020105_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225809/10000100000000060000000001020105_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",东方卫视
-http://20.254.1.9/PLTV/88888888/224/3221225824/10000100000000060000000001128693_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225824/10000100000000060000000001128693_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",江苏卫视
-http://20.254.1.9/PLTV/88888888/224/3221225806/10000100000000060000000001020101_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225806/10000100000000060000000001020101_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",浙江卫视
-http://20.254.1.9/PLTV/88888888/224/3221225807/10000100000000060000000001020102_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225807/10000100000000060000000001020102_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",安徽卫视
-http://20.254.1.9/PLTV/88888888/224/3221225672/10000100000000060000000000012501_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225672/10000100000000060000000000012501_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",东南卫视
-http://20.254.1.9/PLTV/88888888/224/3221225671/10000100000000060000000000012502_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225671/10000100000000060000000000012502_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",江西卫视
-http://20.254.1.9/PLTV/88888888/224/3221225670/10000100000000060000000000012503_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225670/10000100000000060000000000012503_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",山东卫视
-http://20.254.1.9/PLTV/88888888/224/3221225808/10000100000000060000000001020104_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225808/10000100000000060000000001020104_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",河南卫视
-http://20.254.1.9/PLTV/88888888/224/3221225651/10000100000000060000000000012517_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225651/10000100000000060000000000012517_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",湖北卫视
-http://20.254.1.9/PLTV/88888888/224/3221225810/10000100000000060000000001020106_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225810/10000100000000060000000001020106_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",湖南卫视
-http://20.254.1.9/PLTV/88888888/224/3221225814/10000100000000060000000001020103_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225814/10000100000000060000000001020103_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",广东卫视
-http://20.254.1.9/PLTV/88888888/224/3221225811/10000100000000060000000001020107_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225811/10000100000000060000000001020107_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",广西卫视
-http://20.254.1.9/PLTV/88888888/224/3221225676/10000100000000060000000000012496_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225676/10000100000000060000000000012496_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",海南卫视
-http://20.254.1.9/PLTV/88888888/224/3221225677/10000100000000060000000000012494_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225677/10000100000000060000000000012494_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",深圳卫视
-http://20.254.1.9/PLTV/88888888/224/3221225812/10000100000000060000000001020108_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225812/10000100000000060000000001020108_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",三沙卫视
-http://20.254.1.9/PLTV/88888888/224/3221225761/10000100000000060000000001020134_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225761/10000100000000060000000001020134_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",重庆卫视
-http://20.254.1.9/PLTV/88888888/224/3221225659/10000100000000060000000000012514_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225659/10000100000000060000000000012514_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",四川卫视
-http://20.254.1.9/PLTV/88888888/224/3221225675/10000100000000060000000000012497_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225675/10000100000000060000000000012497_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",贵州卫视
-http://20.254.1.9/PLTV/88888888/224/3221225654/10000100000000060000000000012516_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225654/10000100000000060000000000012516_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",云南卫视
-http://20.254.1.9/PLTV/88888888/224/3221225664/10000100000000060000000000012509_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225664/10000100000000060000000000012509_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",西藏卫视
-http://20.254.1.9/PLTV/88888888/224/3221225666/10000100000000060000000000012507_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225666/10000100000000060000000000012507_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="卫视[上海联通]",陕西卫视
-http://20.254.1.9/PLTV/88888888/224/3221225665/10000100000000060000000000012508_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225665/10000100000000060000000000012508_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",甘肃卫视
-http://20.254.1.9/PLTV/88888888/224/3221225663/10000100000000060000000000012511_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225663/10000100000000060000000000012511_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",青海卫视
-http://20.254.1.9/PLTV/88888888/224/3221225667/10000100000000060000000000012506_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225667/10000100000000060000000000012506_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",宁夏卫视
-http://20.254.1.9/PLTV/88888888/224/3221225678/10000100000000060000000000012493_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225678/10000100000000060000000000012493_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",新疆卫视
-http://20.254.1.9/PLTV/88888888/224/3221225649/10000100000000060000000000012519_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225649/10000100000000060000000000012519_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="卫视[上海联通]",兵团卫视
-http://20.254.1.9/PLTV/88888888/224/3221225646/10000100000000060000000000012521_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225646/10000100000000060000000000012521_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
 #EXTINF:-1 group-title="其他[上海联通]",4K视界
-http://20.254.1.9/PLTV/88888888/224/3221225860/10000100000000060000000001354204_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225860/10000100000000060000000001354204_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",4K纪实
-http://20.254.1.9/PLTV/88888888/224/3221225858/10000100000000060000000001354195_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225858/10000100000000060000000001354195_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",4K少儿
-http://20.254.1.9/PLTV/88888888/224/3221225859/10000100000000060000000001354203_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225859/10000100000000060000000001354203_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="其他[上海联通]",卡酷少儿HD
-http://20.254.1.9/PLTV/88888888/224/3221225914/10000100000000060000000001656989_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="其他[上海联通]",冬奥纪实HD
-http://20.254.1.9/PLTV/88888888/224/3221225878/10000100000000060000000001468625_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225914/10000100000000060000000001656989_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",纪实科教HD
-http://20.254.1.9/PLTV/88888888/224/3221225909/10000100000000060000000001580153_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225878/10000100000000060000000001468625_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="其他[上海联通]",金鹰纪实HD
+http://20.254.1.9/PLTV/88888888/224/3221225909/10000100000000060000000001580153_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",快乐垂钓HD
-http://20.254.1.9/PLTV/88888888/224/3221225898/10000100000000060000000001580166_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225898/10000100000000060000000001580166_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",茶频道HD
-http://20.254.1.9/PLTV/88888888/224/3221225899/10000100000000060000000001580168_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225899/10000100000000060000000001580168_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",陶瓷HD
-http://20.254.1.9/PLTV/88888888/224/3221225854/10000100000000060000000001138699_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225854/10000100000000060000000001138699_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",足球频道HD
-http://20.254.1.9/PLTV/88888888/224/3221225900/10000100000000060000000001580167_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225900/10000100000000060000000001580167_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="其他[上海联通]",金鹰卡通
-http://20.254.1.9/PLTV/88888888/224/3221225642/10000100000000060000000000012523_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225642/10000100000000060000000000012523_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",嘉佳卡通
-http://20.254.1.9/PLTV/88888888/224/3221225896/10000100000000060000000000287443_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225896/10000100000000060000000000287443_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="其他[上海联通]",卡酷卡通
-http://20.254.1.9/PLTV/88888888/224/3221225897/10000100000000060000000001580163_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225897/10000100000000060000000001580163_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+
+#EXTINF:-1 group-title="其他[上海联通]",家庭理财
+http://20.254.1.9/PLTV/88888888/224/3221225927/10000100000000060000000002014694_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="其他[上海联通]",导视
-http://20.254.1.9/PLTV/88888888/224/3221225815/10000100000000060000000001110951_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225815/10000100000000060000000001110951_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
 #EXTINF:-1 group-title="教育[上海联通]",中国教育-1HD
-http://20.254.1.9/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225801/10000100000000060000000001020096_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",中国教育-1
-http://20.254.1.9/PLTV/88888888/224/3221225813/10000100000000060000000001020109_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225813/10000100000000060000000001020109_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",中国教育-2
-http://20.254.1.9/PLTV/88888888/224/3221225910/10000100000000060000000000287434_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225910/10000100000000060000000000287434_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",中国教育-4
-http://20.254.1.9/PLTV/88888888/224/3221225877/10000100000000060000000000287435_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="教育[上海联通]",教育台
-http://20.254.1.9/PLTV/88888888/224/3221225785/10000100000000060000000001020078_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225877/10000100000000060000000000287435_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="教育[上海联通]",上海教育HD
+http://20.254.1.9/PLTV/88888888/224/3221225926/10000100000000060000000002015042_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="教育[上海联通]",上海教育
+http://20.254.1.9/PLTV/88888888/224/3221225785/10000100000000060000000001020078_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",一年级
-http://20.254.1.9/PLTV/88888888/224/3221225865/10000100000000060000000001443650_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225865/10000100000000060000000001443650_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",二年级
-http://20.254.1.9/PLTV/88888888/224/3221225866/10000100000000060000000001443649_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225866/10000100000000060000000001443649_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",三年级
-http://20.254.1.9/PLTV/88888888/224/3221225867/10000100000000060000000001443652_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225867/10000100000000060000000001443652_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",四年级
-http://20.254.1.9/PLTV/88888888/224/3221225868/10000100000000060000000001443648_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225868/10000100000000060000000001443648_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",五年级
-http://20.254.1.9/PLTV/88888888/224/3221225869/10000100000000060000000001443651_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225869/10000100000000060000000001443651_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",六年级
-http://20.254.1.9/PLTV/88888888/224/3221225870/10000100000000060000000001443654_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225870/10000100000000060000000001443654_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",七年级
-http://20.254.1.9/PLTV/88888888/224/3221225871/10000100000000060000000001443656_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225871/10000100000000060000000001443656_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",八年级
-http://20.254.1.9/PLTV/88888888/224/3221225872/10000100000000060000000001443653_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225872/10000100000000060000000001443653_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",九年级
-http://20.254.1.9/PLTV/88888888/224/3221225873/10000100000000060000000001443655_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225873/10000100000000060000000001443655_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",高一年级
-http://20.254.1.9/PLTV/88888888/224/3221225874/10000100000000060000000001443658_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225874/10000100000000060000000001443658_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",高二年级
-http://20.254.1.9/PLTV/88888888/224/3221225875/10000100000000060000000001443657_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225875/10000100000000060000000001443657_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="教育[上海联通]",高三年级
-http://20.254.1.9/PLTV/88888888/224/3221225876/10000100000000060000000001443659_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225876/10000100000000060000000001443659_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
 #EXTINF:-1 group-title="直播[上海联通]",直播室101
-http://20.254.1.9/PLTV/88888888/224/3221225623/10000100000000060000000000012567_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225623/10000100000000060000000000012567_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室102
-http://20.254.1.9/PLTV/88888888/224/3221225622/10000100000000060000000000012568_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225622/10000100000000060000000000012568_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室103
-http://20.254.1.9/PLTV/88888888/224/3221225621/10000100000000060000000000012569_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225621/10000100000000060000000000012569_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室104
-http://20.254.1.9/PLTV/88888888/224/3221225620/10000100000000060000000000012570_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225620/10000100000000060000000000012570_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室105
-http://20.254.1.9/PLTV/88888888/224/3221225619/10000100000000060000000000012571_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225619/10000100000000060000000000012571_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室106
-http://20.254.1.9/PLTV/88888888/224/3221225605/10000100000000060000000000012572_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225605/10000100000000060000000000012572_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室107
-http://20.254.1.9/PLTV/88888888/224/3221225603/10000100000000060000000000012573_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225603/10000100000000060000000000012573_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室108
-http://20.254.1.9/PLTV/88888888/224/3221225704/10000100000000060000000000072699_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225704/10000100000000060000000000072699_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室109
-http://20.254.1.9/PLTV/88888888/224/3221225705/10000100000000060000000000072708_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225705/10000100000000060000000000072708_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室110
-http://20.254.1.9/PLTV/88888888/224/3221225706/10000100000000060000000000072719_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225706/10000100000000060000000000072719_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室111
-http://20.254.1.9/PLTV/88888888/224/3221225707/10000100000000060000000000072722_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225707/10000100000000060000000000072722_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="直播[上海联通]",直播室201
-http://20.254.1.9/PLTV/88888888/224/3221225856/10000100000000060000000001177773_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225856/10000100000000060000000001177773_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室202
-http://20.254.1.9/PLTV/88888888/224/3221225836/10000100000000060000000001128707_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225836/10000100000000060000000001128707_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室203
-http://20.254.1.9/PLTV/88888888/224/3221225837/10000100000000060000000001128708_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225837/10000100000000060000000001128708_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室204
-http://20.254.1.9/PLTV/88888888/224/3221225838/10000100000000060000000001128709_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225838/10000100000000060000000001128709_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="直播[上海联通]",直播室205
-http://20.254.1.9/PLTV/88888888/224/3221225839/10000100000000060000000001128710_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-
-
-
-
-#EXTINF:-1 group-title="测试[上海联通]",测试频道
-http://20.254.1.9/PLTV/88888888/224/3221225879/10000100000000060000000001473175_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-5HD
-http://20.254.1.9/PLTV/88888888/224/3221225917/10000100000000060000000001858815_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-5
-http://20.254.1.9/PLTV/88888888/224/3221225918/10000100000000060000000001858816_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-1HD-1
-http://20.254.1.9/PLTV/88888888/224/3221225919/10000100000000060000000001858817_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-1-1
-http://20.254.1.9/PLTV/88888888/224/3221225920/10000100000000060000000001858818_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-1HD-2
-http://20.254.1.9/PLTV/88888888/224/3221225921/10000100000000060000000001858819_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-1-2
-http://20.254.1.9/PLTV/88888888/224/3221225922/10000100000000060000000001858820_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="测试[上海联通]",测试CCTV-6HD
-http://20.254.1.9/PLTV/88888888/224/3221225923/10000100000000060000000001858821_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-
+http://20.254.1.9/PLTV/88888888/224/3221225839/10000100000000060000000001128710_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 
 
 
 #EXTINF:-1 group-title="购物[上海联通]",东方购物-1HD
-http://20.254.1.9/PLTV/88888888/224/3221225816/10000100000000060000000001128677_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225816/10000100000000060000000001128677_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="购物[上海联通]",东方购物-2HD
-http://20.254.1.9/PLTV/88888888/224/3221225844/10000100000000060000000001128678_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="购物[上海联通]",东方购物-3HD
-http://20.254.1.9/PLTV/88888888/224/3221225817/10000100000000060000000001128681_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="购物[上海联通]",东方购物-4HD
-http://20.254.1.9/PLTV/88888888/224/3221225818/10000100000000060000000001128684_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="购物[上海联通]",东方购物-5HD
-http://20.254.1.9/PLTV/88888888/224/3221225819/10000100000000060000000001128686_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225844/10000100000000060000000001128678_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="购物[上海联通]",东方购物-1
-http://20.254.1.9/PLTV/88888888/224/3221225829/10000100000000060000000001128700_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225829/10000100000000060000000001128700_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="购物[上海联通]",东方购物-2
-http://20.254.1.9/PLTV/88888888/224/3221225830/10000100000000060000000001128702_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="购物[上海联通]",东方购物-3
-http://20.254.1.9/PLTV/88888888/224/3221225831/10000100000000060000000001128703_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="购物[上海联通]",东方购物-4
-http://20.254.1.9/PLTV/88888888/224/3221225832/10000100000000060000000001128704_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-#EXTINF:-1 group-title="购物[上海联通]",东方购物-5
-http://20.254.1.9/PLTV/88888888/224/3221225833/10000100000000060000000001128706_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225830/10000100000000060000000001128702_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 
 #EXTINF:-1 group-title="购物[上海联通]",好享购物
-http://20.254.1.9/PLTV/88888888/224/3221225901/10000100000000060000000001580142_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225901/10000100000000060000000001580142_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="购物[上海联通]",聚鲨环球精选
-http://20.254.1.9/PLTV/88888888/224/3221225904/10000100000000060000000001580144_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225904/10000100000000060000000001580144_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="购物[上海联通]",央广购物
-http://20.254.1.9/PLTV/88888888/224/3221225905/10000100000000060000000001588698_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
+http://20.254.1.9/PLTV/88888888/224/3221225905/10000100000000060000000001588698_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
 #EXTINF:-1 group-title="购物[上海联通]",家家购物
-http://20.254.1.9/PLTV/88888888/224/3221225911/10000100000000060000000001592697_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=2&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2
-
-
-
-
-
-
+http://20.254.1.9/PLTV/88888888/224/3221225911/10000100000000060000000001592697_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="购物[上海联通]",家有购物
+http://20.254.1.9/PLTV/88888888/224/3221226038/10000100000000060000000002233120_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="购物[上海联通]",快乐购
+http://20.254.1.9/PLTV/88888888/224/3221226039/10000100000000060000000002233121_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
+#EXTINF:-1 group-title="购物[上海联通]",优购物
+http://20.254.1.9/PLTV/88888888/224/3221225929/10000100000000060000000002126619_0.smil/index.m3u8?fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2
